@@ -1,0 +1,94 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages,
+		{
+			"path": "pages/video/video",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false,
+				"navigationStyle": "custom",
+				"app-plus": {
+					"titleNView": false,
+					"bounce": "none",
+					"pullToRefresh": {
+						"style": "circle",
+						"offset": "70px"
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/caricature/caricature",
+			"style": {
+				"navigationBarTitleText": "漫画",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/gpt/gpt",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/live/live",
+			"style": {
+				"navigationBarTitleText": "电视",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/search-page/search-page",
+			"style": {
+				"navigationBarTitleText": "搜索",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/caricature-info/caricature-info",
+			"style": {
+				"navigationBarTitleText": "漫画信息",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/read-caricature/read-caricature",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false,
+				"navigationStyle": "custom"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "white",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#00aaff",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar": {
+		"color": "#666",
+		"selectedColor": "#00aaff",
+		"fontSize": "12px",
+		"list": [
+			{
+				"text": "电视",
+				"pagePath": "pages/video/video",
+				"iconPath": "static/images/tab-icons/video.png",
+				"selectedIconPath": "static/images/tab-icons/video_active.png"
+			},
+			{
+				"text": "漫画",
+				"pagePath": "pages/caricature/caricature",
+				"iconPath": "static/images/tab-icons/caricature.png",
+				"selectedIconPath": "static/images/tab-icons/caricature_active.png"
+			},
+			{
+				"text": "GPT",
+				"pagePath": "pages/gpt/gpt",
+				"iconPath": "static/images/tab-icons/gpt.png",
+				"selectedIconPath": "static/images/tab-icons/gpt_active.png"
+			}
+		]
+	}
+}

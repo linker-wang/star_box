@@ -1,0 +1,203 @@
+[
+	{
+		"filterName": "地区",
+		"prefix": "area",
+		"list": [
+			{
+				"filterItemName": "全部"
+      },
+			{
+				"filterItemName": "港台",
+				"param": "35"
+      },
+			{
+				"filterItemName": "日韩",
+				"param": "36"
+      },
+			{
+				"filterItemName": "大陆",
+				"param": "37"
+      },
+			{
+				"filterItemName": "欧美",
+				"param": "52"
+      }
+    ]
+  },
+	{
+		"filterName": "进度",
+		"prefix": "st",
+		"list": [
+			{
+				"filterItemName": "全部"
+      },
+			{
+				"filterItemName": "连载",
+				"param": "1"
+      },
+			{
+				"filterItemName": "完结",
+				"param": "2"
+      }
+    ]
+  },
+	{
+		"filterName": "受众",
+		"prefix": "group",
+		"list": [
+			{
+				"filterItemName": "全部"
+      },
+			{
+				"filterItemName": "少年向",
+				"param": "1"
+      },
+			{
+				"filterItemName": "少女向",
+				"param": "2"
+      },
+			{
+				"filterItemName": "青年向",
+				"param": "3"
+      }
+    ]
+  },
+	{
+		"filterName": "收费",
+		"prefix": "pay",
+		"list": [
+			{
+				"filterItemName": "全部"
+      },
+			{
+				"filterItemName": "免费",
+				"param": "0"
+      },
+			{
+				"filterItemName": "付费",
+				"param": "1"
+      },
+			{
+				"filterItemName": "VIP免费",
+				"param": "2"
+      }
+    ]
+  },
+	{
+		"filterName": "字母",
+		"prefix": "char",
+		"list": [
+			{
+				"filterItemName": "全部"
+      },
+			{
+				"filterItemName": "A",
+				"param": "A"
+      },
+			{
+				"filterItemName": "B",
+				"param": "B"
+      },
+			{
+				"filterItemName": "C",
+				"param": "C"
+      },
+			{
+				"filterItemName": "D",
+				"param": "D"
+      },
+			{
+				"filterItemName": "E",
+				"param": "E"
+      },
+			{
+				"filterItemName": "F",
+				"param": "F"
+      },
+			{
+				"filterItemName": "G",
+				"param": "G"
+      },
+			{
+				"filterItemName": "H",
+				"param": "H"
+      },
+			{
+				"filterItemName": "I",
+				"param": "I"
+      },
+			{
+				"filterItemName": "J",
+				"param": "J"
+      },
+			{
+				"filterItemName": "K",
+				"param": "K"
+      },
+			{
+				"filterItemName": "L",
+				"param": "L"
+      },
+			{
+				"filterItemName": "M",
+				"param": "M"
+      },
+			{
+				"filterItemName": "N",
+				"param": "N"
+      },
+			{
+				"filterItemName": "O",
+				"param": "O"
+      },
+			{
+				"filterItemName": "P",
+				"param": "P"
+      },
+			{
+				"filterItemName": "Q",
+				"param": "Q"
+      },
+			{
+				"filterItemName": "R",
+				"param": "R"
+      },
+			{
+				"filterItemName": "S",
+				"param": "S"
+      },
+			{
+				"filterItemName": "T",
+				"param": "T"
+      },
+			{
+				"filterItemName": "U",
+				"param": "U"
+      },
+			{
+				"filterItemName": "V",
+				"param": "V"
+      },
+			{
+				"filterItemName": "W",
+				"param": "W"
+      },
+			{
+				"filterItemName": "X",
+				"param": "X"
+      },
+			{
+				"filterItemName": "Y",
+				"param": "Y"
+      },
+			{
+				"filterItemName": "Z",
+				"param": "Z"
+      },
+			{
+				"filterItemName": "0-9",
+				"param": "0-9"
+      }
+    ]
+  }
+]

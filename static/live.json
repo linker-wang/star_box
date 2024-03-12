@@ -1,0 +1,18 @@
+[
+	{
+		"name": "CCTV-1",
+		"url": "http://61.136.172.236:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0"
+	},
+	{
+		"name": "CCTV-2",
+		"url": "http://61.136.172.236:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0"
+	},
+	{
+		"name": "CCTV-3",
+		"url": "http://61.136.172.236:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0"
+	},
+	{
+		"name": "CCTV-4",
+		"url": "http://58.210.60.226:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0"
+	}
+]

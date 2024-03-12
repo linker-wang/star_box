@@ -1,0 +1,744 @@
+[
+	{
+		"genre": "卫视频道",
+		"list": [
+			{
+				"name": "东南卫视",
+				"url": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001044/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+			},
+			{
+				"name": "东方卫视",
+				"url": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001336/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+			},
+			{
+				"name": "东方卫视",
+				"url": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001028/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+			},
+			{
+				"name": "云南卫视",
+				"url": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001046/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+			},
+			{
+				"name": "内蒙古卫视",
+				"url": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001035/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+			},
+			{
+				"name": "北京卫视",
+				"url": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001335/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+			},
+			{
+				"name": "北京卫视",
+				"url": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001025/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+			},
+			{
+				"name": "厦门卫视",
+				"url": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001306/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+			},
+			{
+				"name": "吉林卫视",
+				"url": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001049/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+			},
+			{
+				"name": "嘉佳卡通",
+				"url": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001310/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+			},
+			{
+				"name": "四川卫视",
+				"url": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001036/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+			},
+			{
+				"name": "天津卫视",
+				"url": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001343/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+			},
+			{
+				"name": "天津卫视",
+				"url": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001037/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+			},
+			{
+				"name": "宁夏卫视",
+				"url": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001061/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+			},
+			{
+				"name": "安徽卫视",
+				"url": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001346/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+			},
+			{
+				"name": "安徽卫视",
+				"url": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001298/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+			},
+			{
+				"name": "山东卫视",
+				"url": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001341/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+			},
+			{
+				"name": "山西卫视",
+				"url": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001038/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+			},
+			{
+				"name": "广东卫视",
+				"url": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001031/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+			},
+			{
+				"name": "广东卫视",
+				"url": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001337/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+			},
+			{
+				"name": "广西卫视",
+				"url": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001054/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+			},
+			{
+				"name": "新疆卫视",
+				"url": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001047/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+			},
+			{
+				"name": "江苏卫视",
+				"url": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001032/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+			},
+			{
+				"name": "江苏卫视",
+				"url": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001344/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+			},
+			{
+				"name": "河北卫视",
+				"url": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001039/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+			},
+			{
+				"name": "河南卫视",
+				"url": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001056/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+			},
+			{
+				"name": "浙江卫视",
+				"url": "http: //[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001026/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+			},
+			{
+				"name": "浙江卫视",
+				"url": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001345/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+			},
+			{
+				"name": "深圳卫视",
+				"url": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001029/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+			},
+			{
+				"name": "深圳卫视",
+				"url": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001342/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+			},
+			{
+				"name": "湖北卫视",
+				"url": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001347/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+			},
+			{
+				"name": "湖北卫视",
+				"url": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001299/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+			},
+			{
+				"name": "湖南卫视",
+				"url": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001027/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+			},
+			{
+				"name": "湖南卫视",
+				"url": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001339/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+			},
+			{
+				"name": "炫动卡通",
+				"url": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001303/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+			},
+			{
+				"name": "甘肃卫视",
+				"url": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001059/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+			},
+			{
+				"name": "西藏卫视",
+				"url": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001302/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+			},
+			{
+				"name": "贵州卫视",
+				"url": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001048/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+			},
+			{
+				"name": "辽宁卫视",
+				"url": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001296/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+			},
+			{
+				"name": "辽宁卫视",
+				"url": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001340/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+			},
+			{
+				"name": "重庆卫视",
+				"url": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001297/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+			},
+			{
+				"name": "金鹰卡通",
+				"url": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001067/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+			},
+			{
+				"name": "陕西卫视",
+				"url": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001062/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+			},
+			{
+				"name": "青海卫视",
+				"url": "http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=63cf437e1591689484"
+			},
+			{
+				"name": "青海卫视",
+				"url": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001033/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+			},
+			{
+				"name": "青海卫视",
+				"url": "http://stream.qhbtv.com/qhws/sd/live.m3u8"
+			},
+			{
+				"name": "黑龙江卫视",
+				"url": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001338/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+			},
+			{
+				"name": "黑龙江卫视",
+				"url": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001030/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+			},
+			{
+				"name": "三沙卫视",
+				"url": "https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u"
+			}
+		]
+	},
+	{
+		"genre": "央视频道",
+		"list": [
+			{
+				"name": "CCTV1",
+				"url": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001068/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+	    },
+			{
+				"name": "CCTV2",
+				"url": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001293/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+	    },
+			{
+				"name": "CCTV3",
+				"url": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001598/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+	    },
+			{
+				"name": "CCTV4",
+				"url": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001290/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+	    },
+			{
+				"name": "CCTV5",
+				"url": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001850/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+	    },
+			{
+				"name": "CCTV6",
+				"url": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001859/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+	    },
+			{
+				"name": "CCTV7",
+				"url": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001291/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+	    },
+			{
+				"name": "CCTV8",
+				"url": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001869/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+	    },
+			{
+				"name": "CCTV9",
+				"url": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001294/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+	    },
+			{
+				"name": "CCTV10",
+				"url": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001288/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+	    },
+			{
+				"name": "CCTV11",
+				"url": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001327/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+	    },
+			{
+				"name": "CCTV12",
+				"url": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001289/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+	    },
+			{
+				"name": "CCTV13",
+				"url": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001328/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+	    },
+			{
+				"name": "CCTV14",
+				"url": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001292/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+	    },
+			{
+				"name": "CCTV15",
+				"url": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001020/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+	    },
+			{
+				"name": "CHC动作电影",
+				"url": "http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8"
+	    },
+			{
+				"name": "CHC动作电影",
+				"url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8"
+	    },
+			{
+				"name": "CHC动作电影",
+				"url": "http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8"
+	    },
+			{
+				"name": "CHC家庭影院",
+				"url": "http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8"
+	    },
+			{
+				"name": "CHC动作电影",
+				"url": "http://58.19.13.92:9901/tsfile/live/1037_1.m3u8"
+	    },
+			{
+				"name": "CHC家庭影院",
+				"url": "http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8"
+	    },
+			{
+				"name": "CHC高清电影",
+				"url": "http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8"
+	    },
+			{
+				"name": "CHC高清电影",
+				"url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8"
+	    },
+			{
+				"name": "CHC高清电影",
+				"url": "http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8"
+	    },
+			{
+				"name": "亚洲新闻",
+				"url": "http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8"
+	    },
+			{
+				"name": "亚洲新闻",
+				"url": "http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd"
+	    },
+			{
+				"name": "亚洲新闻",
+				"url": "http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd"
+	    },
+			{
+				"name": "亚洲新闻",
+				"url": "http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8"
+	    },
+			{
+				"name": "亚洲新闻",
+				"url": "http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?$3M1280x720"
+	    },
+			{
+				"name": "亚洲新闻",
+				"url": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8"
+	    },
+			{
+				"name": "亚洲新闻",
+				"url": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8"
+	    },
+			{
+				"name": "香港卫视",
+				"url": "http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8"
+	    },
+			{
+				"name": "凤凰资讯",
+				"url": "https://0472.org/hls/youzaiSB/fhzx.m3u8"
+	    },
+			{
+				"name": "凤凰中文",
+				"url": "https://0472.org/hls/youzaiSB/fhzw.m3u8"
+	    },
+			{
+				"name": "凤凰香港",
+				"url": "https://0472.org/hls/youzaiSB/fhhk.m3u8"
+	    }
+	  ]
+	},
+	{
+		"genre": "NewTV直播",
+		"list": [
+			{
+				"name": "NewTV超级电影",
+				"url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8"
+	    },
+			{
+				"name": "NewTV超级电影",
+				"url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8"
+	    },
+			{
+				"name": "NewTV东北热剧",
+				"url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8"
+	    },
+			{
+				"name": "NewTV东北热剧",
+				"url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8"
+	    },
+			{
+				"name": "NewTV欢乐剧场",
+				"url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8"
+	    },
+			{
+				"name": "NewTV欢乐剧场",
+				"url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8"
+	    },
+			{
+				"name": "NewTV军旅剧场",
+				"url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8"
+	    },
+			{
+				"name": "NewTV惊悚悬疑",
+				"url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8"
+	    },
+			{
+				"name": "NewTV武搏世界",
+				"url": "http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/wh7f454c46tw1556325430_664703954/ott.mobaibox.com/PLTV/3/224/3221227533/index.m3u8?icpid=3&RTS=1674385966&from=40&popid=40&hms_devid=2113&prioritypopid=40&vqe=3"
+	    },
+			{
+				"name": "NewTV炫舞未来",
+				"url": "http://[2409:8087:2001:20:2800:0:df6e:eb08]:80/wh7f454c46tw519702850_-1512208436/ott.mobaibox.com/PLTV/3/224/3221227475/index.m3u8?icpid=3&RTS=1674380635&from=40&popid=40&hms_devid=2037&prioritypopid=40&vqe=3"
+	    },
+			{
+				"name": "NewTV爱情喜剧",
+				"url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8"
+	    },
+			{
+				"name": "NewTV精品萌宠",
+				"url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8"
+	    },
+			{
+				"name": "NewTV金牌综艺",
+				"url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8"
+	    },
+			{
+				"name": "NewTV金牌综艺",
+				"url": "http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/wh7f454c46tw2614190807_1624483481/ott.mobaibox.com/PLTV/3/224/3221227541/index.m3u8?icpid=3&RTS=1674387024&from=40&popid=40&hms_devid=2113&prioritypopid=40&vqe=3"
+	    }
+	  ]
+	},
+	{
+		"genre": "电影联通线路",
+		"list": [
+			{
+				"name": "华语经典",
+				"url": "http://epg.112114.xyz/douyu/434971"
+	    },
+			{
+				"name": "华语电影",
+				"url": "http://epg.112114.xyz/douyu/3928"
+	    },
+			{
+				"name": "吃米滴虫",
+				"url": "http://epg.112114.xyz/douyu/315457"
+	    },
+			{
+				"name": "神乐华语",
+				"url": "http://epg.112114.xyz/douyu/85894"
+	    },
+			{
+				"name": "吃奶滴虫",
+				"url": "http://epg.112114.xyz/douyu/263824"
+	    },
+			{
+				"name": "特辑影院",
+				"url": "http://epg.112114.xyz/douyu/3637778"
+	    },
+			{
+				"name": "贝爷MAX厅",
+				"url": "http://epg.112114.xyz/douyu/4332"
+	    },
+			{
+				"name": "漫威影片",
+				"url": "http://epg.112114.xyz/douyu/6140589"
+	    },
+			{
+				"name": "周星驰电影",
+				"url": "http://epg.112114.xyz/douyu/122402"
+	    },
+			{
+				"name": "刘德华电影1",
+				"url": "http://epg.112114.xyz/douyu/2516864"
+	    },
+			{
+				"name": "豆瓣高分",
+				"url": "http://epg.112114.xyz/douyu/8770422"
+	    },
+			{
+				"name": "经典武侠",
+				"url": "http://epg.112114.xyz/douyu/4246519"
+	    },
+			{
+				"name": "那些年的经典",
+				"url": "http://epg.112114.xyz/douyu/1274132"
+	    },
+			{
+				"name": "林正英电影1",
+				"url": "http://epg.112114.xyz/douyu/218859"
+	    },
+			{
+				"name": "林正英电影2",
+				"url": "http://epg.112114.xyz/douyu/7356023"
+	    },
+			{
+				"name": "女神金电影",
+				"url": "http://epg.112114.xyz/douyu/747764"
+	    },
+			{
+				"name": "贝爷影厅1",
+				"url": "http://epg.112114.xyz/douyu/252802"
+	    },
+			{
+				"name": "贝爷影厅2",
+				"url": "http://epg.112114.xyz/douyu/36337"
+	    },
+			{
+				"name": "电影欧美",
+				"url": "http://epg.112114.xyz/douyu/20415"
+	    },
+			{
+				"name": "冰冰经典电影",
+				"url": "http://epg.112114.xyz/douyu/74374"
+	    },
+			{
+				"name": "林林影院",
+				"url": "http://epg.112114.xyz/douyu/9826611"
+	    },
+			{
+				"name": "恐怖经典",
+				"url": "http://epg.112114.xyz/douyu/1165374"
+	    },
+			{
+				"name": "变种人电影",
+				"url": "http://epg.112114.xyz/douyu/9651304"
+	    },
+			{
+				"name": "麓山迷踪",
+				"url": "http://epg.112114.xyz/douyu/4505431"
+	    },
+			{
+				"name": "欧美大片",
+				"url": "http://epg.112114.xyz/douyu/2793084"
+	    },
+			{
+				"name": "小宇60帧",
+				"url": "http://epg.112114.xyz/douyu/323876"
+	    },
+			{
+				"name": "4K HDR",
+				"url": "http://epg.112114.xyz/douyu/9249162"
+	    },
+			{
+				"name": "喜剧电影专场",
+				"url": "http://epg.112114.xyz/douyu/9292492"
+	    },
+			{
+				"name": "恐怖影片",
+				"url": "http://43.138.170.29:35455/huya/11602075"
+	    },
+			{
+				"name": "師落",
+				"url": "http://epg.112114.xyz/douyu/6582435"
+	    },
+			{
+				"name": "赵本山小品",
+				"url": "http://epg.112114.xyz/douyu/9817716"
+	    },
+			{
+				"name": "宋小宝小品",
+				"url": "http://epg.112114.xyz/douyu/9817729"
+	    },
+			{
+				"name": "经典小品",
+				"url": "http://epg.112114.xyz/douyu/9067836"
+	    },
+			{
+				"name": "情景喜剧",
+				"url": "http://epg.112114.xyz/douyu/3980787"
+	    },
+			{
+				"name": "经典电视剧",
+				"url": "http://epg.112114.xyz/douyu/7459925"
+	    },
+			{
+				"name": "连续剧1",
+				"url": "http://epg.112114.xyz/douyu/4549169"
+	    },
+			{
+				"name": "连续剧2",
+				"url": "http://epg.112114.xyz/douyu/7623292"
+	    },
+			{
+				"name": "连续剧3",
+				"url": "http://epg.112114.xyz/douyu/7476264"
+	    },
+			{
+				"name": "看剧",
+				"url": "http://epg.112114.xyz/douyu/431460"
+	    },
+			{
+				"name": "武侠剧",
+				"url": "http://epg.112114.xyz/douyu/7655471"
+	    }
+	  ]
+	},
+	{
+		"genre": "海外频道",
+		"list": [
+			{
+				"name": "中国环球电视",
+				"url": "http://live.cgtn.com/500/prog_index.m3u8"
+	    },
+			{
+				"name": "俄罗斯",
+				"url": "http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8"
+	    },
+			{
+				"name": "俄罗斯",
+				"url": "https://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/mono.m3u8"
+	    },
+			{
+				"name": "半岛新闻",
+				"url": "http://live-hls-web-aja.getaj.net/AJA/02.m3u8"
+	    },
+			{
+				"name": "华盛顿DC",
+				"url": "http://live-hls-web-aje.getaj.net/AJE/01.m3u8"
+	    },
+			{
+				"name": "华盛顿DC",
+				"url": "https://live-hls-web-aje.getaj.net/AJE/02.m3u8"
+	    },
+			{
+				"name": "华盛顿DC",
+				"url": "https://live-hls-web-aje.getaj.net/AJE/01.m3u8"
+	    },
+			{
+				"name": "半岛电视台",
+				"url": "https://pulltv1.wanfudaluye.com/live/tv1.m3u8"
+	    },
+			{
+				"name": "新加坡",
+				"url": "http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8"
+	    },
+			{
+				"name": "新加坡",
+				"url": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8"
+	    },
+			{
+				"name": "新加坡",
+				"url": "http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8"
+	    },
+			{
+				"name": "新加坡",
+				"url": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd"
+	    },
+			{
+				"name": "新加坡",
+				"url": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8"
+	    },
+			{
+				"name": "EZTV2",
+				"url": "http://vvlive.eztv.vip/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-bc9f000c6daa2def0b71d5389778b0d3"
+	    },
+			{
+				"name": "EZTV6",
+				"url": "http://vvlive.eztv.vip:80/huawen6/huawen6.m3u8?auth_key=1660814676-0-0-4d45d97f017e545dd368719f8dd48ffe"
+	    },
+			{
+				"name": "EZTV1",
+				"url": "http://vvlive.eztv.vip/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39"
+	    },
+			{
+				"name": "CGTN",
+				"url": "http://live.cgtn.com/1000/prog_index.m3u8?zshijd"
+	    },
+			{
+				"name": "CGTN",
+				"url": "http://live.cgtn.com/1000/prog_index.m3u8"
+	    },
+			{
+				"name": "MyTime movie",
+				"url": "https://mytime-tcl.amagi.tv/playlist1080-p.m3u8?blog.ntnas.to"
+	    },
+			{
+				"name": "MyTime movie",
+				"url": "https://mytime-tcl.amagi.tv/playlist1080-p.m3u8?blog.ntnas.top"
+	    },
+			{
+				"name": "埃及 Mokameleen TV",
+				"url": "http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist_b1864000.m3u8?v=787761179"
+	    }
+	  ]
+	},
+	{
+		"genre": "河南地方",
+		"list": [
+			{
+				"name": "河南卫视",
+				"url": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001056/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+	    },
+			{
+				"name": "梨园频道",
+				"url": "http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ"
+	    },
+			{
+				"name": "河南卫视",
+				"url": "http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=a2a23eb4e6a3a59277e8aedd1ff1254a&wsTime=1709892616"
+	    },
+			{
+				"name": "新闻频道",
+				"url": "http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=64f91463562a30644fb46807684fad19&wsTime=1709892616"
+	    },
+			{
+				"name": "都市频道",
+				"url": "http://tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=9e6243550331ba2cd664aad8760e2ce3&wsTime=1709892616"
+	    },
+			{
+				"name": "民生频道",
+				"url": "http://tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=38588a89d3edbb32e2d8562d07c9d365&wsTime=1709892616"
+	    },
+			{
+				"name": "法治频道",
+				"url": "http://tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=e00b04f4d0d7a6a2b2d756a7cc86f2a4&wsTime=1709892616"
+	    },
+			{
+				"name": "公共频道",
+				"url": "http://tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=b17c1c8d8c23ce9c3dd066140b22f462&wsTime=1709892616"
+	    },
+			{
+				"name": "河南乡村频道",
+				"url": "http://tvcdn.stream3.hndt.com/tv/65b8302b017e100019dc540f00000000_transios/playlist.m3u8?wsSecret=467a321a7dc54c2b3952ab72f2b16b3d&wsTime=1709892616"
+	    },
+			{
+				"name": "电视剧频道",
+				"url": "http://tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=141d98f02cfdfc34dceacffe26399a8a&wsTime=1709892616"
+	    },
+			{
+				"name": "河南国际",
+				"url": "http://tvcdn.stream3.hndt.com/tv/65b7751f017e1000d8998f0900000000_transios/playlist.m3u8?wsSecret=ae81f9e503e0928ba5d64622c32939fd&wsTime=1709892616"
+	    },
+			{
+				"name": "梨园频道",
+				"url": "http://tvcdn.stream3.hndt.com/tv/65b67b15017e1000258a2b2400000000_transios/playlist.m3u8?wsSecret=2acecf396cbfd55258e48916ac811f4f&wsTime=1709892616"
+	    },
+			{
+				"name": "文物宝库",
+				"url": "http://tvcdn.stream3.hndt.com/tv/65b5a69d017e1000aa645bea00000000_transios/playlist.m3u8?wsSecret=fc07a7bec078c324c7ac5ecb35698eaa&wsTime=1709892616"
+	    },
+			{
+				"name": "武术频道",
+				"url": "http://tvcdn.stream3.hndt.com/tv/65b4b750017e1000dbb9306200000000_transios/playlist.m3u8?wsSecret=7f1f40fa4b7ed0115b9b995de7d5e7d2&wsTime=1709892616"
+	    },
+			{
+				"name": "睛彩中原",
+				"url": "http://tvcdn.stream3.hndt.com/tv/65b27d4c017e100039bd55c200000000_transios/playlist.m3u8?wsSecret=c0b9df93e8f36a66f23ddc5dd47248d0&wsTime=1709892616"
+	    },
+			{
+				"name": "移动戏曲频道",
+				"url": "https://tvcdn.stream3.hndt.com/tv/160ea8971f8b41f0905f88c7afe3effe_transios/playlist.m3u8?wsSecret=e83b127c8af7da682976a3968c7206dd&wsTime=1709892616"
+	    },
+			{
+				"name": "象视界",
+				"url": "http://tvcdn.stream3.hndt.com/tv/d34d1a2b0178100022de972e00000000_transios/playlist.m3u8?wsSecret=056f7e6a3a7afed58db1432ce94ea4cd&wsTime=1709892616"
+	    },
+			{
+				"name": "国学频道",
+				"url": "http://tvcdn.stream3.hndt.com/tv/7a2078d40184100092f63e9d00000000_transios/playlist.m3u8?wsSecret=ecaa8d8fc62bf3a6f5f1c3911e585bb3&wsTime=1709892616"
+	    },
+			{
+				"name": "欢腾购物",
+				"url": "http://tvcdn.stream3.hndt.com/tv/65ba653b017e1000d4ee41c700000000_transios/playlist.m3u8?wsSecret=a001967836fbbd45cc49e0171dec647a&wsTime=1709892616"
+	    }
+	  ]
+	}
+]
